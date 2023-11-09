@@ -11,10 +11,10 @@ Color quantization reduces the number of distinct colors in an image by grouping
 Below are example images that demonstrate the color quantization process:
 
 #### Before Color Quantization
-![Before Color Quantization](images\test.jpg)
+![Before Color Quantization](images/test.jpg)
 
 #### After Color Quantization
-![After Color Quantization](images\pred_img.jpg)
+![After Color Quantization](images/pred_img.jpg)
 
 ## Features
 
